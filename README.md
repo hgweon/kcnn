@@ -1,2 +1,2 @@
 # kcnn
-k conditional nearest neighbor approach (R codes)
+The k conditional nearest neighbor approach (R codes)
